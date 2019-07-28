@@ -1,0 +1,22 @@
+address {background-color: dimgray}
+body {background-color:gold}
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 15px 250px;
+    text-align: center;
+    text-decoration: darkblue;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }

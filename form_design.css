@@ -1,0 +1,17 @@
+.cities {
+    background-color: lightgreen;
+    color: maroon;
+    margin: 20px;
+    padding: 20px;
+  } 
+
+p {
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua
+}
+
+
+iframe {
+    margin: 10px;
+}
